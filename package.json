@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "material-ui": "^0.15.4",
+    "meteor-node-stubs": "^0.2.3",
+    "mongo": "^0.1.0",
+    "react": "^15.3.1",
+    "react-addons-pure-render-mixin": "^15.2.1",
+    "react-button-group": "^1.0.2",
+    "react-d3": "^0.4.0",
+    "react-dom": "^15.3.1",
+    "react-mounter": "^1.2.0",
+    "react-tap-event-plugin": "^1.0.0",
+    "reactable": "^0.14.0"
+  }
+}

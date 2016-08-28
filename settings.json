@@ -1,0 +1,15 @@
+{
+   "private":{
+      "mandrill":{
+         "user":"Rydite, Inc.",
+         "apikey":"FkDUqXHHxGvofKaunD9cVQ"
+      },
+      "quickblox":{
+      	"user":"rydite",
+      	"password":"ryditequickblox16",
+      	"app_id":"42816",
+      	"auth_key":"OwrgCkvVxsBE7W-",
+      	"auth_secret":"Lu6YzDasZxwdPgh"
+      }
+   }
+}
